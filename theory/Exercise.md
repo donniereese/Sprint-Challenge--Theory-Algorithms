@@ -24,3 +24,6 @@
 
 2. Lion State Machine
 ![Lion State Machine Describing basic states of day](./images/state_lion1.jpg)
+
+3. VT-100 Escape Commands State Machine
+![State machine that describes two different escape sequences to control the screen](./images/state_vt100_1.jpg)
